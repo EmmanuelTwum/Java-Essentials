@@ -1,2 +1,2 @@
-# Java-Essentials
-Learning Java
+# JavaScript-Essentials
+Learning JavaScript
